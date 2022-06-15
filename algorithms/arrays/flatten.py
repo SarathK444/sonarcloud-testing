@@ -6,7 +6,6 @@ produce a single resultant array.
 from collections.abc import Iterable
 
 
-# return list
 def flatten(input_arr, output_arr=None):
     if output_arr is None:
         output_arr = []
