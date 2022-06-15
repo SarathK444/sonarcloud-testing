@@ -7,7 +7,7 @@
                /
    2 -> 4 -> 6
    ...we would return 7.
-   Note that the node itself is the unique identifier, not the value of the node.
+   Note that the node  is the unique identifier, not the value of the node.
    """
 import unittest
 
