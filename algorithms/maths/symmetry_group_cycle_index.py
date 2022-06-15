@@ -104,7 +104,7 @@ def cycle_product_for_two_polynomials(p1: Polynomial, p2: Polynomial, q: Union[f
 
 def cycle_index_sym_helper(n: int, memo: Dict[int, Polynomial]) -> Polynomial:
     """
-    A helper for the dp-style evaluation
+    A helper for the dpstyle evaluation
     of the cycle index.
 
     The recurrence is given in:
