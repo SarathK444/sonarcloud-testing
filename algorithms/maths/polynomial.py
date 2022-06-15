@@ -10,7 +10,7 @@ class Monomial:
     """
     A simple Monomial class
     record the details of all variables
-    that a typical monomial is composed of.
+    that a typical monomial is  of.
     """
     def __init__(self, variables: Dict[int, int], coeff: Union[int, float, Fraction, None]= None) -> None:
         '''
@@ -54,7 +54,7 @@ class Monomial:
     @staticmethod
     def _rationalize_if_possible(num):
         '''
-        A helper for converting numbers
+        A helper for  numbers
         to Fraction only when possible.
         '''
         if isinstance(num, Rational):
