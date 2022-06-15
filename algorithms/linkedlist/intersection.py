@@ -1,5 +1,5 @@
 """
-   This function takes two lists and returns the node they have in common, if any.
+   This  takes two lists and returns the node they have in common, if any.
    In this example:
    1 -> 3 -> 5
                \
