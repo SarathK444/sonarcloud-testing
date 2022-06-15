@@ -1,4 +1,4 @@
-# extended_gcd(a, b) modified from
+# extended_gcd(a, b) modified 
 # https://github.com/keon/algorithms/blob/master/algorithms/maths/extended_gcd.py
 
 def extended_gcd(a: int, b: int) -> [int, int, int]:
