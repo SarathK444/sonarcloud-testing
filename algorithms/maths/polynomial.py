@@ -8,7 +8,7 @@ from functools import reduce
 
 class Monomial:
     """
-    A simple Monomial class to
+    A simple Monomial class
     record the details of all variables
     that a typical monomial is composed of.
     """
