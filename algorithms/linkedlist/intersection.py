@@ -1,5 +1,5 @@
 """
-   This function takes two lists and returns the node they have in common, if any.
+   This  takes two lists and returns the node they have in common, if any.
    In this example:
    1 -> 3 -> 5
                \
@@ -7,7 +7,7 @@
                /
    2 -> 4 -> 6
    ...we would return 7.
-   Note that the node itself is the unique identifier, not the value of the node.
+   Note that the node  is the unique identifier, not the value of the node.
    """
 import unittest
 
